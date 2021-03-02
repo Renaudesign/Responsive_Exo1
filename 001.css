@@ -1,0 +1,9 @@
+body{
+    background-color: rgb(255, 255, 255);
+}
+.col-sm{
+    color: #ffffff;
+    text-align: center;
+    background-color: #007BFF;
+    margin: 1px;
+}
